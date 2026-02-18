@@ -31,13 +31,9 @@ Spent 13 years in payments — Dwolla → Basis Theory — making sensitive data
 - 🚴 [fantasy-cyclocross](https://github.com/thegreysky/fantasy-cyclocross-ui) — Fantasy sports but for cyclocross. Nobody else wanted to play 😂
 - 🚲 [canibiketoday](https://github.com/thegreysky/canibiketoday) — "Can I bike today?" weather app. Turns out you can just... look outside.
 - 📡 [anthill](https://github.com/armsteadj1/anthill) — ANT+ sensor dashboard for cycling. Smart trainers got their own apps.
-- 🎰 [truthlabsraffle](https://github.com/armsteadj1/truthlabsraffle) — NFT raffle thing. We don't talk about this era.
-- 👻 [trollr](https://github.com/armsteadj1/trollr) — I genuinely don't remember what this was. That's the cause of death.
 - 🔒 [express-basistheory-tokenize](https://github.com/armsteadj1/express-basistheory-tokenize) — Auto-tokenize Express requests via middleware. Became a real BT product.
 - 📦 [heroku-buildpack-tokenize](https://github.com/armsteadj1/heroku-buildpack-tokenize) — Tokenization as a Heroku buildpack. Heroku itself is in the graveyard now.
 - 💰 [invoiceivy](https://github.com/thegreysky/invoiceivy_api) — Invoicing app. QuickBooks exists.
-- 🖥️ [osx](https://github.com/armsteadj1/osx) — macOS setup scripts. Switched to just... remembering.
-
 ## 📫 Find me
 
 - [LinkedIn](https://linkedin.com/in/armsteadj1)
