@@ -14,10 +14,10 @@ Spent 13 years in payments — Dwolla → Basis Theory — making sensitive data
 
 ## Current Projects
 
-- 🦀 [ClawOS](https://github.com/thegreysky/clawos) — Agent-native microkernel OS in Rust. The agent *is* the OS, not running on top of one.
-- 🤝 [Shake](https://github.com/thegreysky/shake) — LinkedIn CLI — cookie auth, no OAuth. Like `bird` but for LinkedIn.
+- 🦀 [ClawOS](https://github.com/armsteadj1/clawos) — Agent-native microkernel OS in Rust. The agent *is* the OS, not running on top of one.
+- 🤝 [Shake](https://github.com/armsteadj1/shake) — LinkedIn CLI — cookie auth, no OAuth. Like `bird` but for LinkedIn.
 - 🛠️ [agent-utils](https://github.com/armsteadj1/agent-utils) — Cloudflare Workers powering my AI agent's receipt & automation pipeline
-- 📓 [granola-drive-sync](https://github.com/thegreysky/granola-drive-sync) — Auto-sync Granola meeting notes to Google Drive
+- 📓 [granola-sync](https://github.com/armsteadj1/granola-sync) — Auto-sync Granola meeting notes to Google Drive
 - 🌤️ [home-dashboard](https://github.com/thegreysky/home-dashboard) — E-ink weather dashboard for the house
 
 ## 🪦 The Graveyard
@@ -33,7 +33,7 @@ Spent 13 years in payments — Dwolla → Basis Theory — making sensitive data
 - 📡 [anthill](https://github.com/armsteadj1/anthill) — ANT+ sensor dashboard for cycling. Smart trainers got their own apps.
 - 🔒 [express-basistheory-tokenize](https://github.com/armsteadj1/express-basistheory-tokenize) — Auto-tokenize Express requests via middleware. Became a real BT product.
 - 📦 [heroku-buildpack-tokenize](https://github.com/armsteadj1/heroku-buildpack-tokenize) — Tokenization as a Heroku buildpack. Heroku itself is in the graveyard now.
-- 💰 [invoiceivy](https://github.com/thegreysky/invoiceivy_api) — Invoicing app. QuickBooks exists.
+
 ## 📫 Find me
 
 - [LinkedIn](https://linkedin.com/in/armsteadj1)
