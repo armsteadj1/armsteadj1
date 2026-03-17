@@ -15,11 +15,12 @@ Spent 13 years in payments — Dwolla → Basis Theory — making sensitive data
 ## Current Projects
 
 - 🦀 [ClawOS](https://github.com/armsteadj1/clawos) — Agent-native microkernel OS in Rust. The agent *is* the OS, not running on top of one.
-- 🤝 [Shake](https://github.com/armsteadj1/shake) — LinkedIn CLI — cookie auth, no OAuth. Like `bird` but for LinkedIn.
-- 🏃 [strava-sync](https://github.com/armsteadj1/strava-sync) — CLI that syncs your Strava activity history to a local SQLite DB. Incremental, token auto-refresh, hourly cron. `npx @armsteadj1/strava-sync`
-- 💪 [whoop-sync](https://github.com/armsteadj1/whoop-sync) — CLI that syncs Whoop workouts, sleep, and recovery cycles to SQLite. `npx @armsteadj1/whoop-sync`
+- 🤝 [Shake](https://github.com/armsteadj1/shake) — LinkedIn CLI — cookie auth, no OAuth. Like \`bird\` but for LinkedIn.
+- 🏃 [strava-sync](https://github.com/armsteadj1/strava-sync) — CLI that syncs your Strava activity history to a local SQLite DB. Incremental, token auto-refresh, hourly cron. \`npx @armsteadj1/strava-sync\`
+- 💪 [whoop-sync](https://github.com/armsteadj1/whoop-sync) — CLI that syncs Whoop workouts, sleep, and recovery cycles to SQLite. \`npx @armsteadj1/whoop-sync\`
 - 🛠️ [agent-utils](https://github.com/armsteadj1/agent-utils) — Cloudflare Workers powering my AI agent's receipt & automation pipeline
 - 📓 [granola-sync](https://github.com/armsteadj1/granola-sync) — Auto-sync Granola meeting notes to Google Drive
+- 💳 [mpp-card-charge-demo](https://github.com/armsteadj1/mpp-card-charge-demo) — Interactive demo of the Machine Payments Protocol (MPP) card charge flow
 - 🌤️ [home-dashboard](https://github.com/thegreysky/home-dashboard) — E-ink weather dashboard for the house
 
 ## 🪦 The Graveyard
